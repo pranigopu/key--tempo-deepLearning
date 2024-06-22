@@ -1,4 +1,4 @@
-# Musical key & tempo recognition - Coursework Report
+# Musical key & tempo recognition
 
 - **Subject name**: Deep learning for audio and music
 - **Subject code**: ECS7013P
