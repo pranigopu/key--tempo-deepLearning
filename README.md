@@ -250,7 +250,7 @@ The architecture finally used is as follows:
 - Trainable params: 59,058
 - Non-trainable params: 512
 
-**NOTE**: The three recurrent layers used are stacked as a single cell containedd in the bidirectional layer.
+**NOTE**: The three recurrent layers used are stacked as a single cell contained in the bidirectional layer.
 
 Following the referenced CNN architecture, the model has the following hyper-parameters:
 
